@@ -47,12 +47,16 @@ This project lets you **control any PC game (like Hill Climb Racing)** using **h
 ---
 
 🙌 Acknowledgements
+
 MediaPipe by Google
+
 OpenCV
+
 PyAutoGUI
 
 ---
 💡 Future Improvements
+
 Add gesture customization
 
 Add gesture training module
