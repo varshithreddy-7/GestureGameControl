@@ -38,15 +38,20 @@ This project lets you **control any PC game (like Hill Climb Racing)** using **h
 - MediaPipe
 - PyAutoGUI
 - NumPy
+  
+---
 
 📷 Demo
 (You can add a GIF or video link here later)
+
+---
 
 🙌 Acknowledgements
 MediaPipe by Google
 OpenCV
 PyAutoGUI
 
+---
 💡 Future Improvements
 Add gesture customization
 
